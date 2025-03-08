@@ -37,3 +37,4 @@ Education & Research - Supports data analysis and forecasting studies.
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a0f51bcf-4f61-4d0a-ba50-5a863d98bcb0)
